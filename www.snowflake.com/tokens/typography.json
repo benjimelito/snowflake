@@ -1,0 +1,141 @@
+{
+  "font-family-1": {
+    "value": "Lato",
+    "description": "Observed 110x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/fundamentals/query-optimization, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 110,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/fundamentals/query-optimization",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-family-2": {
+    "value": "Texta",
+    "description": "Observed 90x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/fundamentals/query-optimization, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 90,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/fundamentals/query-optimization",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-family-3": {
+    "value": "Open Sans",
+    "description": "Observed 50x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/fundamentals/query-optimization, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 50,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/fundamentals/query-optimization",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-heading-4": {
+    "value": "48px",
+    "description": "Observed 50x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 50,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-body-5": {
+    "value": "18px",
+    "description": "Observed 50x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/fundamentals/query-optimization, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 50,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/fundamentals/query-optimization",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-family-6": {
+    "value": "Source Code Pro",
+    "description": "Observed 30x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-heading-7": {
+    "value": "40px",
+    "description": "Observed 30x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap"
+    ]
+  },
+  "font-family-8": {
+    "value": "Helvetica, Arial, sans-serif",
+    "description": "Observed 18x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/fundamentals/query-optimization, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 18,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/fundamentals/query-optimization",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-size-9": {
+    "value": "13px",
+    "description": "Observed 18x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/fundamentals/query-optimization, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 18,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/fundamentals/query-optimization",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-heading-10": {
+    "value": "72px",
+    "description": "Observed 10x on https://www.snowflake.com/en/fundamentals/query-optimization",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.snowflake.com/en/fundamentals/query-optimization"
+    ]
+  },
+  "font-body-11": {
+    "value": "14px",
+    "description": "Observed 10x on https://www.snowflake.com/en/fundamentals/query-optimization",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.snowflake.com/en/fundamentals/query-optimization"
+    ]
+  },
+  "font-size-12": {
+    "value": "10px",
+    "description": "Observed 10x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning, https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store, https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap, https://www.snowflake.com/en/fundamentals/query-optimization, https://www.snowflake.com/en/blog/introducing-unistore",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+      "https://www.snowflake.com/en/blog/build-manage-production-ml-snowflake-feature-store",
+      "https://www.snowflake.com/en/blog/retail-2026-predictions-webinar-recap",
+      "https://www.snowflake.com/en/fundamentals/query-optimization",
+      "https://www.snowflake.com/en/blog/introducing-unistore"
+    ]
+  },
+  "font-family-13": {
+    "value": "adobe-clean, &quot",
+    "description": "Observed 2x on https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.snowflake.com/en/engineering-blog/agent-world-model-for-agentic-reinforment-learning"
+    ]
+  }
+}

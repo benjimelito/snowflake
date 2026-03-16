@@ -1,0 +1,63 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://www.snowflake.com/en/
+ * Generated: 2026-03-16T15:05:54.670Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-brand-accent: #249edc; /* 125x */
+  --sm-color-brand-primary: #35464f; /* 50x */
+  --sm-color-brand-background: #ffffff; /* 50x */
+  --sm-color-brand-textprimary: #000000; /* 50x */
+  --sm-color-rgb-51-51-51: rgb(51,51,51); /* 18x */
+  --sm-color-rgb-18-52-86: rgb(18,52,86); /* 9x */
+  --sm-color-rgb-41-181-232: rgb(41,181,232); /* 9x */
+  --sm-color-rgb-63-128-138: rgb(63,128,138); /* 3x */
+  --sm-color-rgb-238-189-211: rgb(238,189,211); /* 1x */
+  --sm-color-rgb-198-237-241: rgb(198,237,241); /* 1x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: Lato; /* 110x */
+  --sm-font-family-2: Texta; /* 90x */
+  --sm-font-family-3: Open Sans; /* 50x */
+  --sm-font-heading-4: 48px; /* 50x */
+  --sm-font-body-5: 18px; /* 50x */
+  --sm-font-family-6: Source Code Pro; /* 30x */
+  --sm-font-heading-7: 40px; /* 30x */
+  --sm-font-family-8: Helvetica, Arial, sans-serif; /* 18x */
+  --sm-font-size-9: 13px; /* 18x */
+  --sm-font-heading-10: 72px; /* 10x */
+  --sm-font-body-11: 14px; /* 10x */
+  --sm-font-size-12: 10px; /* 10x */
+  --sm-font-family-13: adobe-clean, &quot; /* 2x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 50x */
+  --sm-spacing-md: 10px; /* 34x */
+  --sm-spacing-xs-2: 0px; /* 12x */
+  --sm-spacing-3xl: 80px; /* 5x */
+  --sm-spacing-lg: 20px; /* 4x */
+  --sm-spacing-3xl-5: 130px; /* 3x */
+  --sm-spacing-3xl-6: 74px; /* 2x */
+  --sm-spacing-xs-7: 0px 0px 1050px; /* 1x */
+  --sm-spacing-xs-8: 0px 0px 2373px; /* 1x */
+  --sm-spacing-xs-9: 0px 0px 3149px; /* 1x */
+  --sm-spacing-xs-10: 0px 0px 3460px; /* 1x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 5px; /* 50x */
+  --sm-radius-2: 45px; /* 25x */
+
+}
